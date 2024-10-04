@@ -3,7 +3,7 @@ export function renderCheckoutHeader(){
   let checkoutHeaderHTML = `
       <div class="header-content">
         <div class="checkout-header-left-section">
-          <a href="amazon.html">
+          <a href="index.html">
             <img class="amazon-logo" src="images/amazon-logo.png">
             <img class="amazon-mobile-logo" src="images/amazon-mobile-logo.png">
           </a>
@@ -11,7 +11,7 @@ export function renderCheckoutHeader(){
 
         <div class="checkout-header-middle-section">
           Checkout (<a class="return-to-home-link js-checkout-middle-section"
-            href="amazon.html"></a>)
+            href="index.html"></a>)
         </div>
 
         <div class="checkout-header-right-section">
